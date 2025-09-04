@@ -1,7 +1,10 @@
 class demo{
 	public static void main(String args[]){
-		System.out.println("Hello World");
-		System.out.println("Welcome to Jenkins");
-		System.out.println("SCM polling to monitor change commits in github");
+		int a = 10;
+        int b = 20;
+
+        int product = a * b;
+
+        System.out.println("The product of a and b is: " + product);
 	}
 }
